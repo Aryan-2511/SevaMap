@@ -1,0 +1,6 @@
+{
+  "name": "SevaMap",
+  "description": "Discover nearby verified NGOs, orphanages, animal shelters, old-age homes, and disaster relief centers. Donate directly via UPI QR codes and generate multilingual campaign posters and promo videos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
